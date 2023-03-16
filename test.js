@@ -1,1 +1,1 @@
-import foo3 from 'foo3';
+import foo5 from 'foo5';
